@@ -4,6 +4,6 @@ This project determines the views of people towards self-driving cars and comes 
 
 IDE – Jupyter Notebook 
  
-Language – Python 
+Language – Python3
 
 Libraries – Natural Language Toolkit (NLTK), Pandas, Scikit-Learn, TextBlob, Got3, Wordcloud, Matplotlib 
